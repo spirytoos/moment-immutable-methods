@@ -1,0 +1,17 @@
+{
+  "name": "moment-immutable-methods",
+  "version": "1.0.6",
+  "description": "Decorates all the instances returned by moment factory with immutable methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moment",
+    "momentjs",
+    "date",
+    "immutable"
+  ],
+  "author": "Spirytoos",
+  "license": "MIT"
+}
