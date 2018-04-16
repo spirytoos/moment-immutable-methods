@@ -1,6 +1,6 @@
 {
   "name": "moment-immutable-methods",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Decorates all the instances returned by moment factory with immutable methods.",
   "main": "index.js",
   "scripts": {
